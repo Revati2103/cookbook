@@ -41,7 +41,7 @@ function Create() {
     if(data){
       navigate("/")
     }
-  }, [data])
+  }, [data, navigate])
 
 
   return (
