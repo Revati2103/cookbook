@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple App that allows you to add recipes and filter based on search query.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
